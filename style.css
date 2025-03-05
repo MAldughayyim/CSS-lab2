@@ -1,0 +1,67 @@
+* {
+  margin: 0px;
+  font-family: Quicksand;
+  font-weight: bold;
+}
+
+.img-soup {
+  height: 3em;
+  width: 3em;
+}
+
+.img-soup:hover {
+  height: 3em;
+  width: 3em;
+  transform: rotate(180deg);
+}
+
+.background-image {
+  height: 7em;
+  border-bottom: 5px solid black;
+  background-image: url(https://file.notion.so/f/f/fb56a855-0c74-4a0d-84dc-3fb7c76ae0b3/0ba5b70c-e4de-4e4b-87f9-3f873e0e9849/soupHedar.jpg?table=block&id=58e976de-39d1-4fa9-968b-81680cf6e458&spaceId=fb56a855-0c74-4a0d-84dc-3fb7c76ae0b3&expirationTimestamp=1741176000000&signature=Kjv8flMECayXQLkonw0b1hGHL9mjLeHj34p8m-hKaKc&downloadName=soupHedar.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+  background-repeat: no-repeat;
+  align-items: center;
+  font-size: 5em;
+  justify-content: center;
+  background-size: cover;
+}
+
+.soup-image {
+  width: 3em;
+  display: block;
+}
+
+.soup-info-image {
+  width: 30%;
+  text-align: center;
+}
+.soup-info {
+  display: inline;
+}
+.first-div {
+  text-align: center;
+  margin: 10px;
+}
+
+p {
+  font-size: 1em;
+}
+
+.continer {
+  margin: 10em;
+  font-size: larger;
+  font-weight: 500;
+}
+
+.marker {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  background-color: rgb(255, 0, 225, 0.2);
+  max-width: 6em;
+  min-width: 5em;
+  border-radius: 30em;
+}
